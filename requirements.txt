@@ -1,0 +1,17 @@
+psycopg2-binary
+sqlalchemy
+python-dotenv
+pandas
+numpy
+scikit-learn
+xgboost
+rasterio
+geopandas
+matplotlib
+transformers
+torch
+scrapy
+beautifulsoup4
+requests
+jupyter
+ipykernel
